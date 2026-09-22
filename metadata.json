@@ -1,0 +1,6 @@
+{
+  "name": "POS & Manajemen Warung Makan",
+  "description": "Sistem Kasir (POS) & Manajemen Warung Makan dengan kalkulasi ramesan, tracking porsi harian, rekapitulasi omset kasir, dan integrasi Supabase PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
